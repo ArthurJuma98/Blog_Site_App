@@ -1,8 +1,8 @@
 {
-  "name": "crash-course",
+  "name": "Blog_Site App",
   "version": "1.0.0",
   "description": "",
-  "main": "async.js",
+  "main": "app.js",
   "directories": {
     "doc": "docs"
   },
